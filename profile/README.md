@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Kynetyk — Humans × AI" width="100%">
+  <img src="./banner.png" alt="Kynetyk — Humans × AI" width="100%">
 </p>
 
 <p align="center">
