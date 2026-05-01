@@ -75,7 +75,7 @@ A local-first canvas on your Mac that holds reference material, dashboards, and 
 
 ## Get in touch
 
-We work directly with companies and founders on AI strategy, development, and hands-on building. **No pitch deck required.**
+We work directly with companies and founders on AI strategy, development, and hands-on building.
 
 <p>
   <a href="mailto:hello@kynetyk.ai"><img src="https://img.shields.io/badge/hello@kynetyk.ai-e8e8ed?style=for-the-badge&logo=maildotru&logoColor=e8e8ed&labelColor=0c0c14" alt="Email"></a>
