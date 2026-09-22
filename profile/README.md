@@ -7,24 +7,6 @@ We're an AI-forward consultancy built by leaders and operators in the healthcare
 
 ---
 
-## Perspectives
-
-<p>
-  <img src="https://img.shields.io/badge/Honest_Signal-6cffc4?style=flat-square&labelColor=0c0c14&color=6cffc4" alt="Honest Signal">
-  <img src="https://img.shields.io/badge/Ghost_in_the_Machine-ffb86c?style=flat-square&labelColor=0c0c14&color=ffb86c" alt="Ghost in the Machine">
-  <img src="https://img.shields.io/badge/Waveform-c49cff?style=flat-square&labelColor=0c0c14&color=c49cff" alt="Waveform">
-  <img src="https://img.shields.io/badge/AV_Club-ffd76c?style=flat-square&labelColor=0c0c14&color=ffd76c" alt="AV Club">
-</p>
-
-- **Honest Signal** — Hands on testing and honest feedback.
-- **Ghost in the Machine** — Essays on human–AI collaboration.
-- **Waveform** — Projects, products, and what we're building.
-- **AV Club** — DIY side-projects for AI enthusiasts.
-
-[Read the latest →](https://www.kynetyk.ai/writing/) &nbsp;·&nbsp; [Subscribe to the newsletter →](https://buttondown.com/kynetyk)
-
----
-
 ## Get in touch
 
 Tell us what you're trying to do, and we'll tell you honestly whether we can help.
